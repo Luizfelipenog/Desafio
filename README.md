@@ -1,3 +1,4 @@
+#Desafio linguagem C
 Este repositório contém uma série de desafios resolvidos utilizando a linguagem C. Cada arquivo .c representa uma solução independente para um problema específico. Além disso, há um arquivo dados.json utilizado por um dos programas como entrada de dados.
 
 
