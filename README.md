@@ -28,7 +28,7 @@ sudo apt update
 sudo apt install build-essential
 
 
-#Para executar os arquivos
+## Para executar os arquivos
 
 gcc 01.c -o desafio01 && ./desafio01
 gcc 02.c -o desafio02 && ./desafio02
